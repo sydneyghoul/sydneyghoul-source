@@ -21,6 +21,7 @@
                 <a href="{{ domain }}{{ link.url }}" {% if link.url contains 'http' %}target="_blank"{% endif %}>{{ link.title }}</a>
             </li>
         {% endfor %}
+        <hr/>
         <li>
             <img src="{{ site.url }}/images/{{ site.owner.avatar }}" alt="{{ site.owner.name }} photo" class="author-photo">
             <h4>{{ site.owner.name }}</h4>
