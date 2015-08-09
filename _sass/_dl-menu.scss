@@ -138,7 +138,7 @@
 		backface-visibility: hidden;
 		@media #{$medium} {
 			@include border-radius(3px,3px,3px,3px);
-			max-height: 650px;
+			max-height: 800px;
 		}
 	}
 	.dl-menu.dl-menu-toggle {
