@@ -82,7 +82,7 @@
         i {
             // display: inline-block;
         }
-        a {
+        a:not(.nostyle) {
             display: block;
             position: relative;
             padding: 15px 20px;
@@ -97,7 +97,7 @@
             background: rgba(0, 0, 0, 0.2);
         }
         &.dl-back:after,
-        > a:not(:only-child):after {
+        > a:not(:only-child):not(.nostyle):after {
             position: absolute;
             top: 0;
             line-height: 50px;
