@@ -1,8 +1,8 @@
 <div class="social-share">
   <ul class="socialcount socialcount-small inline-list">
-    <li class="vkontakte"><a href="https://vk.com/share.php?url={{ site.url }}{{ page.url }}" title="Поделиться ВКонтакте" target="_blank"><span class="count"><i class="fa fa-vkontakte-square"></i> VK</span></a></li>
-    <li class="facebook"><a href="https://www.facebook.com/sharer/sharer.php?u={{ site.url }}{{ page.url }}" title="Поделиться в Facebook" target="_blank"><span class="count"><i class="fa fa-facebook-square"></i> Like</span></a></li>
-    <li class="twitter"><a href="https://twitter.com/intent/tweet?text={{ site.url }}{{ page.url }}" title="Поделиться в Twitter" target="_blank"><span class="count"><i class="fa fa-twitter-square"></i> Tweet</span></a></li>
-    <li class="googleplus"><a href="https://plus.google.com/share?url={{ site.url }}{{ page.url }}" title="Поделиться в Google Plus" target="_blank"><span class="count"><i class="fa fa-google-plus-square"></i> +1</span></a></li>
+    <li class="vkontakte"><a href="https://vk.com/share.php?url={{ site.url }}{{ page.url }}" title="Поделиться ВКонтакте" target="VKontakte" onclick="window.open(this.href,this.target,'width=800,height=600');return false;"><span class="count"><i class="fa fa-vk"></i></span></a></li>
+    <li class="facebook"><a href="https://www.facebook.com/sharer/sharer.php?u={{ site.url }}{{ page.url }}" title="Поделиться в Facebook" target="Facebook" onclick="window.open(this.href,this.target,'width=800,height=600');return false;"><span class="count"><i class="fa fa-facebook-square"></i></span></a></li>
+    <li class="twitter"><a href="https://twitter.com/intent/tweet?text={{ site.url }}{{ page.url }}" title="Поделиться в Twitter" target="Twitter" onclick="window.open(this.href,this.target,'width=800,height=600');return false;"><span class="count"><i class="fa fa-twitter-square"></i></span></a></li>
+    <li class="googleplus"><a href="https://plus.google.com/share?url={{ site.url }}{{ page.url }}" title="Поделиться в Google Plus" target="Google+" onclick="window.open(this.href,this.target,'width=800,height=600');return false;"><span class="count"><i class="fa fa-google-plus-square"></i></span></a></li>
   </ul>
 </div><!-- /.social-share -->

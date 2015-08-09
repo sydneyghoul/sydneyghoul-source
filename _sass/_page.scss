@@ -164,6 +164,9 @@ body {
 	a {
 		color: lighten($base-color,60);
 	}
+	.social-share a {
+		font-size: 1.25em;
+	}
 	.vcard {
 		&:before {
 			content: " / ";
