@@ -12,6 +12,9 @@ module Jekyll
     def localize(input, format=nil)
       load_translations
       format = (format =~ /^:(\w+)/) ? $1.to_sym : format
+
+      I18n.locale = LOCALE
+
       I18n.l input, :format => format
     end
 
