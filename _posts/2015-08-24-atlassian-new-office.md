@@ -20,6 +20,30 @@ image:
 
 Возможно, экспансия продолжится и в новом здании, но рано или поздно и его пространств не хватит, если только компания не сбавит обороты по найму. Известно, что учредители питают нежные чувства к старым зданиям, так что есть подозрение, что офис останется в центре, даже если придётся переезжать. В нынешнем здании он существует чуть больше двух лет.
 
+
+## Холл и переходы
+
+<figure class="half">
+    <a href="https://farm6.staticflickr.com/5687/20655765718_e33618f1f4_k.jpg"><img src="https://farm6.staticflickr.com/5825/20655770528_b0df7a0cc6_b.jpg" alt=""></a>
+    <a href="https://farm6.staticflickr.com/5630/20222715383_5104a447b6_k.jpg"><img src="https://farm1.staticflickr.com/588/20656985039_b0346e580a_b.jpg" alt=""></a>
+    <a href="https://farm6.staticflickr.com/5774/20656967119_f6d29fb56d_k.jpg"><img src="https://farm6.staticflickr.com/5827/20834123782_2d1e7a8079_b.jpg" alt=""></a>
+    <a href="https://farm6.staticflickr.com/5617/20843787295_4cb43c79e8_k.jpg"><img src="https://farm6.staticflickr.com/5767/20222804913_2d90d84b8f_b.jpg" alt=""></a>
+</figure>
+
+Лестница, соединяющая все три этажа, находится прямо в офисе, что, безусловно, очень удобно.
+
+<figure>
+    <a href="https://farm1.staticflickr.com/777/20655784030_454262821b_k.jpg"><img src="https://farm6.staticflickr.com/5638/20834266802_032ee6b6ce_b.jpg" alt=""></a>
+</figure>
+
+Переходы в старое здание оформлены по-разному, и один из них представлен в заглавной фотографии этого поста. Остальные два попроще, о чём недвусмысленно гласит надпись на стене одного из них.
+
+<figure class="half">
+    <a href="https://farm6.staticflickr.com/5723/20222787133_7a23fbfdcc_k.jpg"><img src="https://farm1.staticflickr.com/639/20655783598_6cc0d5233e_b.jpg" alt=""></a>
+    <a href="https://farm1.staticflickr.com/626/20657009209_fbb8d408c3_k.jpg"><img src="https://farm1.staticflickr.com/655/20817452726_49c01cc970_b.jpg" alt=""></a>
+</figure>
+
+
 ## Рабочее пространство
 
 Как и в старом здании, всё рабочее пространство общее и открытое, иначе говоря, open space. Силовые провода разведены за фальшпотолком, и с него свисают удлинители, которые можно опустить, потянув, если надо что-то подключить. Подавляющее большинство подключается к сети по Wi-Fi, но если есть необходимость в проводном подключении, оно тоже осуществляется через потолок.
@@ -50,11 +74,19 @@ image:
     <a href="https://farm1.staticflickr.com/683/20818017326_e2199c2f58_k.jpg"><img src="https://farm1.staticflickr.com/646/20223317053_eac1a4645e_b.jpg" alt=""></a>
 </figure>
 
+У дальних лифтов стенка отведена под хранение велосипедов — их вешают вертикально за колесо.
+
+<figure>
+    <a href="https://farm1.staticflickr.com/727/20834709002_33187e566e_k.jpg"><img src="https://farm6.staticflickr.com/5810/20817997956_b7130482b0_b.jpg" alt=""></a>
+</figure>
+
+
 ## Переговорки
 
 Помещений для совещаний на трёх новых этажах 32 штуки. Они разных размеров: от приватных до большого зала человек на 50. В большинстве из них есть всё для видеоконференций, поскольку у Atlassian ещё несколько офисов по миру, и общение с ними очень тесное, несмотря на немаленькую разницу во времени.
 
-<figure>
+<figure class="half">
+    <a href="https://farm1.staticflickr.com/623/20852766371_6322034d59_k.jpg"><img src="https://farm6.staticflickr.com/5654/20657629878_d6e8916c4d_b.jpg" alt=""></a>
     <a href="https://farm6.staticflickr.com/5737/20817570796_6aa8e12e31_k.jpg"><img src="https://farm6.staticflickr.com/5834/20222867073_6f9c675f75_b.jpg" alt=""></a>
 </figure>
 
@@ -67,65 +99,39 @@ image:
 Помимо привычных комнат есть два уютных кинотеатра для двоих:
 
 <figure>
-    <a href="https://farm1.staticflickr.com/773/20221350564_84dc996aa2_k.jpg"><img src="https://farm1.staticflickr.com/758/20851109561_d564db6654_b.jpg" alt=""></a>    
+    <a href="https://farm1.staticflickr.com/773/20221350564_84dc996aa2_k.jpg"><img src="https://farm1.staticflickr.com/758/20851109561_d564db6654_b.jpg" alt=""></a>
 </figure>
+
 
 ## Столовая
 
 Столовая-кухня в новом здании больше и удобнее, поскольку расположена в одном большом помещении, а не в трёх, как в старом. Еда, к сожалению, пока такая же: снэки и всё для приготовления сэндвичей и роллов, а не привычное первое-второе и салаты, эх... Про еду отдельно напишу, этот пост и так немаленький.
 
 <figure>
-    <a href="https://farm6.staticflickr.com/5734/20655682558_40df3e9010_k.jpg"><img src="https://farm6.staticflickr.com/5777/20843678355_a0898be8b0_b.jpg" alt=""></a>    
+    <a href="https://farm6.staticflickr.com/5734/20655682558_40df3e9010_k.jpg"><img src="https://farm6.staticflickr.com/5777/20843678355_a0898be8b0_b.jpg" alt=""></a>
 </figure>
 
 В столовой тоже повесили телевизоры. Один из них включён на новостной канал, остальные в обычное время показывают фотографии недавно присоединившихся сотрудников (чтобы было проще подойти и познакомиться с ними), текущие рейтинги наших продуктов (про это тоже как-нибудь отдельно напишу), твиты о них, и вс остальное в том же духе. Во время больших событий, — таких, как финал недавнего хакатона ShipIt, например, — на них транслируют изображение с камер из большого зала старого здания, где проходит презентация проектов.
 
 <figure>
-    <a href="https://farm1.staticflickr.com/659/20655882728_df39e633c4_k.jpg"><img src="https://farm6.staticflickr.com/5765/20843877175_40e5ba52dd_b.jpg" alt=""></a>    
+    <a href="https://farm1.staticflickr.com/659/20655882728_df39e633c4_k.jpg"><img src="https://farm6.staticflickr.com/5765/20843877175_40e5ba52dd_b.jpg" alt=""></a>
 </figure>
 
 А ещё в столовой есть игровой автомат. Вместо игрушек в нём шоколадки, что не упрощает процесс добычи, однако мы с Катей сумели выцепить четыре батончика, так что я смело могу заявить, что вытащить что-то этой клешнёй вполне реально.
 
 <figure class="half">
     <a href="https://farm6.staticflickr.com/5760/20658311709_cfedb7c474_k.jpg"><img src="https://farm1.staticflickr.com/581/20835476022_1373fc584b_b.jpg" alt=""></a>
-    <a href="https://farm1.staticflickr.com/768/20843897945_450d7ac138_k.jpg"><img src="https://farm1.staticflickr.com/702/20843904925_a1c0c8d69a_b.jpg" alt=""></a>    
+    <a href="https://farm1.staticflickr.com/768/20843897945_450d7ac138_k.jpg"><img src="https://farm1.staticflickr.com/702/20843904925_a1c0c8d69a_b.jpg" alt=""></a>
 </figure>
 <figure>
-    <a href="https://farm6.staticflickr.com/5749/20222935153_5c565d8a93_k.jpg"><img src="https://farm6.staticflickr.com/5725/20221310134_954b3dc1ed_b.jpg" alt=""></a>    
+    <a href="https://farm6.staticflickr.com/5749/20222935153_5c565d8a93_k.jpg"><img src="https://farm6.staticflickr.com/5725/20221310134_954b3dc1ed_b.jpg" alt=""></a>
 </figure>
 
-
-## Холл и переходы
-
-<figure class="half">
-    <a href="https://farm6.staticflickr.com/5687/20655765718_e33618f1f4_k.jpg"><img src="https://farm6.staticflickr.com/5825/20655770528_b0df7a0cc6_b.jpg" alt=""></a>
-    <a href="https://farm6.staticflickr.com/5630/20222715383_5104a447b6_k.jpg"><img src="https://farm1.staticflickr.com/588/20656985039_b0346e580a_b.jpg" alt=""></a>    
-    <a href="https://farm6.staticflickr.com/5774/20656967119_f6d29fb56d_k.jpg"><img src="https://farm6.staticflickr.com/5827/20834123782_2d1e7a8079_b.jpg" alt=""></a>    
-    <a href="https://farm6.staticflickr.com/5617/20843787295_4cb43c79e8_k.jpg"><img src="https://farm6.staticflickr.com/5767/20222804913_2d90d84b8f_b.jpg" alt=""></a>    
-</figure>
-
-Лестница, соединяющая все три этажа, находится прямо в офисе.
-
-<figure>
-    <a href="https://farm1.staticflickr.com/777/20655784030_454262821b_k.jpg"><img src="https://farm6.staticflickr.com/5638/20834266802_032ee6b6ce_b.jpg" alt=""></a>        
-</figure>
-
-Переходы в старое здание оформлены по-разному, и один из них представлен в заглавной фотографии этого поста. Остальные два попроще, о чём недвусмысленно гласит надпись на стене одного из них:
-
-<figure>
-    <a href="https://farm1.staticflickr.com/626/20657009209_fbb8d408c3_k.jpg"><img src="https://farm1.staticflickr.com/655/20817452726_49c01cc970_b.jpg" alt=""></a>        
-</figure>
-
-У дальних лифтов стенка отведена под хранение велосипедов — их вешают вертикально за колесо.
-
-<figure>
-    <a href="https://farm1.staticflickr.com/727/20834709002_33187e566e_k.jpg"><img src="https://farm6.staticflickr.com/5810/20817997956_b7130482b0_b.jpg" alt=""></a>        
-</figure>
  
 Пожалуй, на этом я пока закончу. Есть ещё кое-какие фотографии из старого здания, но раз уж я озаглавил пост "Новый офис", то о старом напишу отдельный пост.
 
 <figure>
-    <a href="https://farm1.staticflickr.com/631/20656331088_cc6b010385_k.jpg"><img src="https://farm1.staticflickr.com/739/20844327085_c0ef10e20d_b.jpg" alt=""></a>        
+    <a href="https://farm1.staticflickr.com/631/20656331088_cc6b010385_k.jpg"><img src="https://farm1.staticflickr.com/739/20844327085_c0ef10e20d_b.jpg" alt=""></a>
 </figure>
 
 *P.S. Кто-нибудь заметил небольшое несоответствие фотографий тексту? =) Виной тому наличие такого понятия, как Ground Floor, которое плохо переводится, так что я решил в тексте пронумеровать этажи привычным образом.*
