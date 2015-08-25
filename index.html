@@ -25,7 +25,12 @@ image:
     {% endif %}
   </header>
   <div class="entry-content">
-    {{ post.content }}
+    {% if post.excerpt != post.content %}
+      {{ post.excerpt }}
+      <a href="{{ post.url }}"><strong>Далее...</strong></a>
+    {% else %}
+      {{ post.content }}
+    {% endif %}
   </div><!-- /.entry-content -->
 </article><!-- /.hentry -->
 {% endfor %}

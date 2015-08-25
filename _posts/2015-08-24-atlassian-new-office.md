@@ -30,6 +30,8 @@ image:
     <a href="https://farm6.staticflickr.com/5617/20843787295_4cb43c79e8_k.jpg"><img src="https://farm6.staticflickr.com/5767/20222804913_2d90d84b8f_b.jpg" alt=""></a>
 </figure>
 
+<!--more-->
+
 Лестница, соединяющая все три этажа, находится прямо в офисе, что, безусловно, очень удобно.
 
 <figure>
