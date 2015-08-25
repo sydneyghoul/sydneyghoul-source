@@ -20,6 +20,9 @@ figure {
   }
   a { 
     img {
+      margin-left: 5px;
+      margin-right: 5px;
+      width: 830px;
       @include translate(0, 0);
       -webkit-transition-duration: 0.25s;
       -moz-transition-duration: 0.25s;
