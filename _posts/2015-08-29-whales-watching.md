@@ -59,12 +59,12 @@ image:
 <figure class="third">
     <a href="https://farm1.staticflickr.com/759/20351002453_cdae1e9897_k.jpg"><img src="https://farm1.staticflickr.com/759/20351002453_80c27159db_c.jpg" alt=""></a>
     <a href="https://farm6.staticflickr.com/5800/20785296649_7decda1a54_k.jpg"><img src="https://farm6.staticflickr.com/5800/20785296649_1ba84f5b52_c.jpg" alt=""></a>
-    <a href="http://i.giphy.com/l41lRPIwYbAuFtjX2.gif"><img src="http://i.giphy.com/3oEdv1LDIuYI2gRlLO.gif" alt=""></a>
+    <a href="http://i.giphy.com/l41lRPIwYbAuFtjX2.gif"><img src="http://i.giphy.com/3oEdv7faO978SQI9pK.gif" alt=""></a>
 </figure>
 
 Догнав китов, мы стали медленно двигаться неподалёку от них. Киты плывут неспешно, со скоростью около 8-15 км/ч, так что можно было "распаковаться" из куртки и слезть с седла (иначе и не назвать). Снимать ровно с качающейся лодки сложно, и даже после стабилизации в результате пост-обработки видео всё равно дрожит — уж как получилось! Но китов видно, и это главное!
 
-<iframe src="https://player.vimeo.com/video/137671093" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/137671093">Whales</a> from <a href="https://vimeo.com/user24943368">Daniel Penkin</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+<iframe src="https://player.vimeo.com/video/137671093" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 Мы удачно сели по правому борту, — киты всё время были с нашей стороны (спасибо капитану). Их было три, и по словам капитана, впереди плыл самец, а чуть позади — две самки. Отличают их по царапинам на спине: самцы в борьбе за самок пытаются проплыть друг над другом и задеть противника брюхом. Отсюда и шрамы у них на спине и животе, в то время как у самок спины гладкие. На видео этого, конечно, не разглядеть, так что придётся верить мне на слово ;)
 
@@ -84,7 +84,7 @@ image:
 
 И снова большая скорость и прыжки по волнам — море удовольствия! Вот небольшое видео, на которых можно получить представление о том, как это было:
 
-<iframe src="https://player.vimeo.com/video/137671092" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/137671092">Boat</a> from <a href="https://vimeo.com/user24943368">Daniel Penkin</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+<iframe src="https://player.vimeo.com/video/137671092" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 Вот такое получилось приключение. Напоследок просто пара неплохих фотографий :)
 
