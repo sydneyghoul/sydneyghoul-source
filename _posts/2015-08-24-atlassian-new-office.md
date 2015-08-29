@@ -4,7 +4,7 @@ title: Новый офис Atlassian
 description: "На этой неделе открылась новая часть офиса Atlassian."
 tags: [Atlassian, работа, офис, 343 George Street]
 image:
-  feature: new-atlassian-office/header.jpg
+  feature: 2015-08-24-new-atlassian-office/header.jpg
   credit: Norman Ma
   creditlink: https://twitter.com/darkhorse166/status/633537512573550592
 ---
