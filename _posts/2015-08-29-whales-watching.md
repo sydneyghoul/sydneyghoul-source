@@ -89,7 +89,7 @@ image:
 Такое получилось приключение. Напоследок просто пара неплохих фотографий :)
 
 <figure class="half">
-    <a href="https://farm6.staticflickr.com/5738/20976345831_d5acafe1f5_o.jpg"><img src="https://farm6.staticflickr.com/5738/20976345831_decd2b3780_c.jpg" alt=""></a>
+    <a href="https://farm6.staticflickr.com/5738/20976345831_decd2b3780_b.jpg"><img src="https://farm6.staticflickr.com/5738/20976345831_decd2b3780_c.jpg" alt=""></a>
     <a href="https://farm6.staticflickr.com/5739/20782117129_28d7235086_k.jpg"><img src="https://farm6.staticflickr.com/5739/20782117129_a25a9915e4_c.jpg" alt=""></a>
 </figure>
 
