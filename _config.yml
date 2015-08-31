@@ -37,10 +37,7 @@ bing_verify:
 timezone:    Australia/Sydney
 future:      true
 highlighter: pygments
-markdown: redcarpet
-redcarpet:
-  extensions: ["strikethrough"]
-
+markdown:    kramdown
 gems:
   - jekyll-sitemap
   - i18n
