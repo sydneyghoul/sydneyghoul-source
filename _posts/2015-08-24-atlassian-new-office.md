@@ -4,7 +4,7 @@ title: Новый офис Atlassian
 description: "На этой неделе открылась новая часть офиса Atlassian"
 tags: [Австралия, Сидней, Atlassian, Работа, Офис, 343 George Street]
 image:
-  feature: 2015-08-24-new-atlassian-office/header.jpg
+  feature: 2015-08-24-new-atlassian-office.jpg
   credit: Norman Ma
   creditlink: https://twitter.com/darkhorse166/status/633537512573550592
 ---

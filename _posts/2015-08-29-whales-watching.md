@@ -4,7 +4,7 @@ title: Горбатые киты
 description: "Фотоохота на китов"
 tags: [Австралия, Сидней, Отдых, Океан, Живность]
 image:
-  feature: 2015-08-29-whales-watching/header.jpg
+  feature: 2015-08-29-whales-watching.jpg
   credit: Пётр Григорьев
   creditlink: https://plus.google.com/+ngrussia/posts/7GUTywh145t?pid=6040294643468790578&oid=110056094106588217220
 ---

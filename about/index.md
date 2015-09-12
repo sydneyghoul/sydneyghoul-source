@@ -8,7 +8,7 @@ image:
 ---
 
 <figure>
-	<img src="/images/about/together.jpg" alt="">
+	<img src="/images/together.jpg" alt="">
 </figure>
 
 Полагаю, большинство из тех, кто набрёл на эту страницу, знает, кто я и где. Но на всякий случай отвечу на основные вопросы,
